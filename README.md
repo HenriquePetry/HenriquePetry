@@ -1,4 +1,6 @@
-## Oi! Eu sou o Henrique Petry, desenvolvedor Front-End e estudante de Análise e desenvolvimento de sistemas na UNISINOS
+## 👋 Oi! Eu sou o Henrique Petry; 
+Desenvolvedor Front-End; <br>
+Estudante de Análise e desenvolvimento de sistemas na UNISINOS;
 
 <div align="center">
   <a href="https://github.com/HenriquePetry">
@@ -20,3 +22,10 @@
 </div>
   
   ##
+<div> 
+ 
+  <a href="https://www.instagram.com/henrique.petry/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:henriquepetry01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henriquepetry/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>
+  <a href="https://www.behance.net/henriquepetry" target="_blank"><img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank"></a> 
