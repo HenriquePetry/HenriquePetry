@@ -7,7 +7,6 @@ Estudante de Análise e desenvolvimento de sistemas na UNISINOS;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriquePetry&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=F9B041&text_color=F9B041&icon_color=F9B041"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePetry&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rique-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rique-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
