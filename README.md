@@ -27,7 +27,7 @@ const henriquePetry = {
     pronouns: "He" | "Him",
     code: "Javascript",
     frameworks: "React Native",
-    askMeAbout: ["web dev", "tech", "Anime", "movies", "spirituality"],
+    askMeAbout: ["web dev", "Gym", "Anime", "movies", "spirituality"],
         frontEnd: {
             inMyBrain: ["HTML5", "css", "Javascript", "ReactNative"],
      },
