@@ -31,7 +31,7 @@ const henriquePetry = {
         frontEnd: {
             inMyBrain: ["HTML5", "css", "Javascript", "ReactNative"],
      },
-    currentFocus: "Learning Front-End to start working with i love! (developing frontend solutions)",
+    currentFocus: "Learning Front-End to start working with what i love! (developing frontend solutions)",
     favoriteQuote: "What i cannot create, i do not understand - Richard Feymann"
 };
 ```
