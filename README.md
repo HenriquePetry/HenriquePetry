@@ -1,5 +1,5 @@
 <h2><img src="https://media4.giphy.com/media/2DsBnF1sYl444gpEmw/giphy.gif?cid=790b7611052f058b14c502f9d72e4f822b77ccf881d6290b&rid=giphy.gif&ct=s" width="30"/> Oi! Eu sou o Henrique Petry <img src="https://media0.giphy.com/media/axbcxcNThrlte/giphy.gif?cid=790b761101192aa6a41ba3e81dab18ec9a923ed90eb06cd0&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="https://media4.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif?cid=790b761166459d29c5aaf3cd8d57dc73be5eaf35b87c57f9&rid=giphy.gif&ct=ts" width="230">
+
 
 Desenvolvedor Front-End; <br>
 Estudante de Análise e desenvolvimento de sistemas na UNISINOS;
