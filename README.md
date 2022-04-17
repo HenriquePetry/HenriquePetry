@@ -20,7 +20,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNISINOS;
     
     
     
-   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
+   ### <img src="https://media2.giphy.com/media/GFtsjaDVJnoNa/giphy.gif?cid=790b76118b7f2d2abf48c1be80d29a47f504f80799fe5da7&rid=giphy.gif&ct=s" width="50"> Um pouco mais sobre mim...
     
 ```javascript
 const henriquePetry = {
@@ -35,7 +35,7 @@ const henriquePetry = {
     favoriteQuote: "What i cannot create, i do not understand - Richard Feymann"
 };
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Eu amo aprender com novas pessoas!</b> <b>Ficarei feliz em te conhecer!</b> 😊</em> 
+<img src="https://media3.giphy.com/media/fq7ksXlYF9puqBC5a0/giphy.gif?cid=790b7611b8813c66072437b5fb5138fdaaedb3b3135ec27a&rid=giphy.gif&ct=s" width="60"> <em><b> Eu amo aprender com novas pessoas!</b> <b>Ficarei feliz em te conhecer!</b> 😊</em> 
     
  
 
