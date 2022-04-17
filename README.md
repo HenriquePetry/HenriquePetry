@@ -32,7 +32,7 @@ const henriquePetry = {
             inMyBrain: ["HTML5", "css", "Javascript", "ReactNative"],
      },
     currentFocus: "Learning Front-End to start working with i love! (developing frontend solutions)",
-    favoriteQuote: "What i cannot create, i do not understand - Richard Feymann",
+    favoriteQuote: "What i cannot create, i do not understand - Richard Feymann"
 };
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Eu amo aprender com novas pessoas!</b> <b>Ficarei feliz em te conhecer!</b> 😊</em> 
