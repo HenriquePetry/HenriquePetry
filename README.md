@@ -1,4 +1,4 @@
-<h2><img src="https://media4.giphy.com/media/2DsBnF1sYl444gpEmw/giphy.gif?cid=790b7611052f058b14c502f9d72e4f822b77ccf881d6290b&rid=giphy.gif&ct=s" width="30"/> Oi! Eu sou o Henrique Petry <img src="https://media0.giphy.com/media/axbcxcNThrlte/giphy.gif?cid=790b761101192aa6a41ba3e81dab18ec9a923ed90eb06cd0&rid=giphy.gif&ct=s" width="50"></h2>
+<h2><img src="https://media4.giphy.com/media/2DsBnF1sYl444gpEmw/giphy.gif?cid=790b7611052f058b14c502f9d72e4f822b77ccf881d6290b&rid=giphy.gif&ct=s" width="30"/> Oi! Eu sou o Henrique Petry</h2>
 
 
 Desenvolvedor Front-End; <br>
@@ -39,7 +39,7 @@ const henriquePetry = {
     
  
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/242598009_258806462805642_1565761463686317679_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=JhA2m3xijRgAX-REQGM&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjY2ODAyMDkzMTYzOTQzNDY3NA%3D%3D.2-ccb7-4&oh=00_AT9Epj9ptqdBh-4FjY2i5QCyURY5ae_CdMeiBj4B4NraUw&oe=62780FDC&_nc_sid=30a2ef">
+  <img align="right" alt="Henrique-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/242598009_258806462805642_1565761463686317679_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=JhA2m3xijRgAX-REQGM&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjY2ODAyMDkzMTYzOTQzNDY3NA%3D%3D.2-ccb7-4&oh=00_AT9Epj9ptqdBh-4FjY2i5QCyURY5ae_CdMeiBj4B4NraUw&oe=62780FDC&_nc_sid=30a2ef">
 </div>
   
   ##
