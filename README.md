@@ -36,10 +36,7 @@ const henriquePetry = {
 };
 ```
 <img src="https://media3.giphy.com/media/fq7ksXlYF9puqBC5a0/giphy.gif?cid=790b7611b8813c66072437b5fb5138fdaaedb3b3135ec27a&rid=giphy.gif&ct=s" width="60"> <em><b> Eu amo aprender com novas pessoas!</b> <b>Ficarei feliz em te conhecer!</b> 😊</em> 
-    
- 
 
-  <img align="right" alt="Henrique-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-15/242598009_258806462805642_1565761463686317679_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=JhA2m3xijRgAX-REQGM&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjY2ODAyMDkzMTYzOTQzNDY3NA%3D%3D.2-ccb7-4&oh=00_AT9Epj9ptqdBh-4FjY2i5QCyURY5ae_CdMeiBj4B4NraUw&oe=62780FDC&_nc_sid=30a2ef">
 </div>
   
   ##
