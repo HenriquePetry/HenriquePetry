@@ -6,7 +6,7 @@
   <a href = "mailto:henriquepetry01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henriquepetry/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-Hi, I'm Henrique Petry, a Web Developer from Brazil, i've been studing System Analysis and Development for 1 year at [UNISINOS](https://www.unisinos.br/), passionate about learning new things, especially tecnology.
+Hi, I'm Henrique Petry, a Web Developer from Brazil 🇧🇷, i've been studing System Analysis and Development for 1 year at [UNISINOS](https://www.unisinos.br/), passionate about learning new things, especially tecnology.
 
 **Talking about Personal Stuffs:**
 
