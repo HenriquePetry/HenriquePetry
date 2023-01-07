@@ -10,7 +10,7 @@ Hi, I'm Henrique Petry, a Web Developer from Brazil <img src="https://alexsobole
 
 **Talking about Personal Stuffs:**
 
-- :computer: I’m currently working with Web Developer and UI Designer.
+- :computer: I’m currently working as Web Developer and UI Designer.
 - :seedling: I’m currently learning more about HTML, CSS and Javascript.
 - 🗣️: I’m currently taking advanced english classes <img src="https://alexsobolenko.github.io/flag-icons/flags/4x3/usa.svg" width="15px">. 
 - 💬 Ask me about anything, I am happy to help.
