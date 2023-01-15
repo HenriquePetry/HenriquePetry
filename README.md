@@ -30,8 +30,7 @@ Hi, I'm Henrique Petry, a Web Developer from Brazil <img src="https://alexsobole
 ## :octocat: My Github Stats:
 
 <div align="center"><a href="https://github.com/HenriquePetry"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=HenriquePetry&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=F9B041&text_color=F9B041&icon_color=F9B041"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePetry&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
  
     
