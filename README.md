@@ -26,12 +26,6 @@ Hi, I'm Henrique Petry, a Web Developer from Brazil <img src="https://alexsobole
    <img align="center" alt="Rique-css" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 </section>
   <br>
-
-## :octocat: My Github Stats:
-
-<div align="center"><a href="https://github.com/HenriquePetry"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=HenriquePetry&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=F9B041&text_color=F9B041&icon_color=F9B041"/>
-
-  
  
     
   
