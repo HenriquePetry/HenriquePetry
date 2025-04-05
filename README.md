@@ -1,48 +1,72 @@
-### Hi! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px">
+# 👋 Olá, eu sou o Henrique Petry
+
+Sou um **Front-End Developer bilíngue** com sólida experiência no desenvolvimento de interfaces performáticas e escaláveis para o mercado internacional de **e-commerce**, especialmente nas marcas:
+
+- [Schutz Shoes (EUA)](https://schutz-shoes.com)
+- [Alexandre Birman](https://www.alexandrebirman.com)
+- [Arezzo Store (EUA)](https://www.arezzo-store.com)
+
+Atualmente, atuo como **Analista de Sistemas Pleno** na Arezzo&Co, desenvolvendo soluções Shopify que conectam tecnologia aos objetivos de negócio, sempre com foco em **experiência do usuário, performance e dados**. Tenho mais de **3 anos de experiência em produtos digitais e tecnologia**, colaborando com **squads multidisciplinares** e atuando diretamente com áreas como marketing, logística, CRM, design e financeiro.
+
+> ⚠️ Grande parte das minhas contribuições está em repositórios privados da Arezzo&Co.
+
+---
+## 💻 Sobre meu trabalho
+
+- 🚀 Desenvolvo e mantenho **componentes reutilizáveis** em **React.js** e **Shopify (Liquid)** para otimizar a jornada de compra.
+- 🔧 Realizo ajustes técnicos, deploys em produção e correção de bugs em ambiente crítico de e-commerce internacional.
+- 📊 Implemento **eventos e tags com Google Tag Manager e GA4**, incluindo **server-side tagging** e **Datalayer customizado**.
+- 🌎 Atuo como ponte entre tecnologia e negócios, liderando integrações com parceiros globais (ERP, CRM, logística, atendimento).
+- 🧠 Gero impacto direto em indicadores como **taxa de conversão, AOV e recompra**, usando dados para embasar decisões estratégicas.
+
+---
+## 🛠️ Tech Stack
+
+![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Liquid-FF6B00?style=flat&logo=shopify&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4A4A4A?style=flat&logo=databricks&logoColor=white)
 
 
+## 📊 Ferramentas de Dados & Analytics
+![Google Analytics 4](https://img.shields.io/badge/-GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white)
+![Klaviyo](https://img.shields.io/badge/-Klaviyo-35C4C0?style=flat&logo=klaviyo&logoColor=white)
+![SAP Emarsys](https://img.shields.io/badge/-SAP%20Emarsys-0FAAFF?style=flat&logo=sap&logoColor=white)
+
+## ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-E34A6F?style=flat&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 
-  <a href = "mailto:henriquepetry01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henriquepetry/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-Hi, I'm Henrique Petry, a Developer from Brazil <img src="https://alexsobolenko.github.io/flag-icons/flags/4x3/bra.svg" width="15px">, i've been studing System Analysis and Development for 3 years at [UNISINOS](https://www.unisinos.br/), passionate about learning new things, especially tecnology.
+## ❤️ Curto trabalhar com...
+- Empresas que forçam a evolução!
+- Produtos digitais que resolvem problemas reais
+- Times multidisciplinares, colaborativos e ágeis
+- Ambientes em que dados guiam decisões
+- A construção de experiências que encantam o usuário
 
-**Talking about Personal Stuffs:**
+## 🌐 Contato
+📧 E-mail: [henriquepetry01@gmail.com](mailto:henriquepetry01@gmail.com)  
+📱 WhatsApp: (51) 99629-0507  
+🔗 [LinkedIn](https://www.linkedin.com/in/henriquepetry/)
 
-- :computer: I’m currently working as Operations Analyst - E-Commerce at Arezzo&Co in EUA E-Commerce Team.
-- :seedling: I’m currently learning more about React, Java and mobile Development.
-- 🗣️: I’m currently taking advanced english classes <img src="https://alexsobolenko.github.io/flag-icons/flags/4x3/usa.svg" width="15px">. 
-- 💬 I'm graduating from college, and I'm in the process of trying out various programming languages! So far I have loved learning about nodeJs, java and javascript.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-</p>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
