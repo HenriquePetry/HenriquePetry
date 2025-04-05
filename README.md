@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Henrique Petry
 
 Sou um **Front-End Developer bilíngue** com sólida experiência no desenvolvimento de interfaces performáticas e escaláveis para o mercado internacional de **e-commerce**, especialmente nas marcas:
-
 - [Schutz Shoes (EUA)](https://schutz-shoes.com)
 - [Alexandre Birman](https://www.alexandrebirman.com)
 - [Arezzo Store (EUA)](https://www.arezzo-store.com)
@@ -21,7 +20,6 @@ Atualmente, atuo como **Analista de Sistemas Pleno** na Arezzo&Co, desenvolvendo
 
 ---
 ## 🛠️ Tech Stack
-
 ![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat&logo=shopify&logoColor=white)
 ![Liquid](https://img.shields.io/badge/-Liquid-FF6B00?style=flat&logo=shopify&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -34,16 +32,12 @@ Atualmente, atuo como **Analista de Sistemas Pleno** na Arezzo&Co, desenvolvendo
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-4A4A4A?style=flat&logo=databricks&logoColor=white)
-
-
 ## 📊 Ferramentas de Dados & Analytics
 ![Google Analytics 4](https://img.shields.io/badge/-GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ![GTM](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white)
 ![Klaviyo](https://img.shields.io/badge/-Klaviyo-35C4C0?style=flat&logo=klaviyo&logoColor=white)
 ![SAP Emarsys](https://img.shields.io/badge/-SAP%20Emarsys-0FAAFF?style=flat&logo=sap&logoColor=white)
-
 ## ☁️ Cloud & DevOps
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-E34A6F?style=flat&logo=databricks&logoColor=white)
@@ -55,14 +49,6 @@ Atualmente, atuo como **Analista de Sistemas Pleno** na Arezzo&Co, desenvolvendo
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-
-## ❤️ Curto trabalhar com...
-- Empresas que forçam a evolução!
-- Produtos digitais que resolvem problemas reais
-- Times multidisciplinares, colaborativos e ágeis
-- Ambientes em que dados guiam decisões
-- A construção de experiências que encantam o usuário
 
 ## 🌐 Contato
 📧 E-mail: [henriquepetry01@gmail.com](mailto:henriquepetry01@gmail.com)  
