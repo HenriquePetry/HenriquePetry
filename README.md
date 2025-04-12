@@ -17,6 +17,8 @@ Atualmente, atuo como **Analista de Sistemas Pleno** na Arezzo&Co, desenvolvendo
 - 📊 Implemento **eventos e tags com Google Tag Manager e GA4**, incluindo **server-side tagging** e **Datalayer customizado**.
 - 🌎 Atuo como ponte entre tecnologia e negócios, liderando integrações com parceiros globais (ERP, CRM, logística, atendimento).
 - 🧠 Gero impacto direto em indicadores como **taxa de conversão, AOV e recompra**, usando dados para embasar decisões estratégicas.
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePetry&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 ## 🛠️ Tech Stack
