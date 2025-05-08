@@ -5,15 +5,12 @@ Sou um **Front-End Developer bilíngue** com sólida experiência no desenvolvim
 - [Alexandre Birman](https://www.alexandrebirman.com)
 - [Arezzo Store (EUA)](https://www.arezzo-store.com)
 
-Atualmente, atuo como **Analista de Sistemas Pleno** na Arezzo&Co, desenvolvendo soluções Shopify que conectam tecnologia aos objetivos de negócio, sempre com foco em **experiência do usuário, performance e dados**. Tenho mais de **3 anos de experiência em produtos digitais e tecnologia**, colaborando com **squads multidisciplinares** e atuando diretamente com áreas como marketing, logística, CRM, design e financeiro.
+***Atualmente desenvolvendo soluções Shopify** que conectam tecnologia aos objetivos de negócio, sempre com foco em **experiência do usuário, performance e dados**. Tenho mais de **4 anos de experiência em produtos digitais e tecnologia**, colaborando com **squads multidisciplinares** e atuando diretamente com áreas como marketing, logística, CRM, design e financeiro.
 
-> ⚠️ Grande parte das minhas contribuições está em repositórios privados da Arezzo&Co.
-
----
 ## 💻 Sobre meu trabalho
 
 - 🚀 Desenvolvo e mantenho **componentes reutilizáveis** em **React.js** e **Shopify (Liquid)** para otimizar a jornada de compra.
-- 🔧 Realizo ajustes técnicos, deploys em produção e correção de bugs em ambiente crítico de e-commerce internacional.
+- 🔧 Realizo ajustes técnicos, deploy e correção de bugs.
 - 📊 Implemento **eventos e tags com Google Tag Manager e GA4**, incluindo **server-side tagging** e **Datalayer customizado**.
 - 🌎 Atuo como ponte entre tecnologia e negócios, liderando integrações com parceiros globais (ERP, CRM, logística, atendimento).
 - 🧠 Gero impacto direto em indicadores como **taxa de conversão, AOV e recompra**, usando dados para embasar decisões estratégicas.
