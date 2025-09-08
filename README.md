@@ -1,57 +1,97 @@
-# 👋 Olá, eu sou o Henrique Petry
+# 👋 Henrique Petry · Front-End Developer (Shopify & React)
 
-Sou um **Front-End Developer bilíngue** com sólida experiência no desenvolvimento de interfaces performáticas e escaláveis para o mercado internacional de **e-commerce**, especialmente nas marcas:
-- [Schutz Shoes (EUA)](https://schutz-shoes.com)
-- [Alexandre Birman](https://www.alexandrebirman.com)
-- [Arezzo Store (EUA)](https://www.arezzo-store.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-henriquepetry-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henriquepetry/)
+[![Email](https://img.shields.io/badge/Email-henriquepetry01%40gmail.com-EA4335?logo=gmail\&logoColor=white)](mailto:henriquepetry01@gmail.com)
 
-***Atualmente desenvolvendo soluções Shopify** que conectam tecnologia aos objetivos de negócio, sempre com foco em **experiência do usuário, performance e dados**. Tenho mais de **4 anos de experiência em produtos digitais e tecnologia**, colaborando com **squads multidisciplinares** e atuando diretamente com áreas como marketing, logística, CRM, design e financeiro.
+<p align="left">
+  I’m a <strong>bilingual Front-End Developer</strong> specialized in <strong>international e-commerce</strong>. I build <strong>performant and scalable interfaces</strong> in the <strong>Shopify ecosystem</strong> with <strong>React/Liquid</strong>, connecting technology to business goals through <strong>UX, performance, and data</strong>. <br>
+  With more than 4 years of experience in digital products, I’ve collaborated with multidisciplinary squads and worked directly with marketing, logistics, CRM, design, and finance teams.
+</p>
 
-## 💻 Sobre meu trabalho
+## About me
 
-- 🚀 Desenvolvo e mantenho **componentes reutilizáveis** em **React.js** e **Shopify (Liquid)** para otimizar a jornada de compra.
-- 🔧 Realizo ajustes técnicos, deploy e correção de bugs.
-- 📊 Implemento **eventos e tags com Google Tag Manager e GA4**, incluindo **server-side tagging** e **Datalayer customizado**.
-- 🌎 Atuo como ponte entre tecnologia e negócios, liderando integrações com parceiros globais (ERP, CRM, logística, atendimento).
-- 🧠 Gero impacto direto em indicadores como **taxa de conversão, AOV e recompra**, usando dados para embasar decisões estratégicas.
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePetry&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+* 🖥️ Front-End Developer focused on **Shopify and React.js**
+* 🌍 Experience in **international markets (USA e-commerce)**
+* 📊 Specialized in **data-driven development** with GA4, GTM, and custom dataLayers
+* 🚀 Building scalable, reusable components and solutions with a focus on **conversion and retention**
+* ❤️ Passionate about learning, technology, and transforming theory into practice
 
 ---
+
+## ✨ Highlights
+
+* **Reusable components** in **React** and **Shopify (Liquid)** for consistent shopping journeys.
+* **Theme implementation & maintenance**: deployments, hotfixes, bug fixes, stability improvements.
+* **Analytics instrumentation**: GA4 + GTM (**client-side** and **server-side tagging**) with **custom dataLayer**.
+* **Integrations** with global partners (ERP/CRM, logistics, support, payments) driven by business needs.
+* **Data-driven decisions**: prioritizing improvements that impact **conversion** and **retention**.
+---
+
 ## 🛠️ Tech Stack
-![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/-Liquid-FF6B00?style=flat&logo=shopify&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4A4A4A?style=flat&logo=databricks&logoColor=white)
-## 📊 Ferramentas de Dados & Analytics
-![Google Analytics 4](https://img.shields.io/badge/-GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![GTM](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white)
-![Klaviyo](https://img.shields.io/badge/-Klaviyo-35C4C0?style=flat&logo=klaviyo&logoColor=white)
-![SAP Emarsys](https://img.shields.io/badge/-SAP%20Emarsys-0FAAFF?style=flat&logo=sap&logoColor=white)
-## ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-E34A6F?style=flat&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-## 🌐 Contato
-📧 E-mail: [henriquepetry01@gmail.com](mailto:henriquepetry01@gmail.com)  
-📱 WhatsApp: (51) 99629-0507  
-🔗 [LinkedIn](https://www.linkedin.com/in/henriquepetry/)
+![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat\&logo=shopify\&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Liquid-FF6B00?style=flat\&logo=shopify\&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat\&logo=react\&logoColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat\&logo=sass\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 
 ---
+
+## 📊 Data & Analytics
+
+![GA4](https://img.shields.io/badge/-Google%20Analytics%204-E37400?style=flat\&logo=googleanalytics\&logoColor=white)
+![GTM](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=flat\&logo=google-tag-manager\&logoColor=white)
+![Consent](https://img.shields.io/badge/-Consent%20Management-111?style=flat)
+![Klaviyo](https://img.shields.io/badge/-Klaviyo-35C4C0?style=flat\&logo=klaviyo\&logoColor=white)
+![SAP Emarsys](https://img.shields.io/badge/-SAP%20Emarsys-0FAAFF?style=flat\&logo=sap\&logoColor=white)
+
+* **Custom dataLayer** aligned to GA4 (e-commerce events, journeys, UX signals).
+* **Server-side tagging** where applicable (better governance and data quality).
+* **Consent mapping** and compliance with GDPR/CCPA.
+
+---
+
+## ☁️ Cloud, DevOps & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat\&logo=amazon-aws\&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat\&logo=google-cloud\&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-E34A6F?style=flat\&logo=databricks\&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat\&logo=looker\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat\&logo=netlify\&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat\&logo=microsoft-azure\&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/HenriquePetry">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HenriquePetry&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePetry&layout=compact&langs_count=8&theme=radical"/>
+</a>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriquePetry&bg_color=0d1117&color=61dafb&line=61dafb&point=61dafb&area=true&area_color=61dafb&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Contact
+
+📧 **Email**: [henriquepetry01@gmail.com](mailto:henriquepetry01@gmail.com)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/henriquepetry/](https://www.linkedin.com/in/henriquepetry/)
+
+<p align="left">
+  Let’s connect! Feel free to send me an email, reach out on LinkedIn, or explore my work on GitHub. 💌✨
+</p>
+
